@@ -1,4 +1,4 @@
-# New Engineering Manager Curiculum
+# New Engineering Manager Curriculum
 
 ## Supplies needed
 
@@ -31,6 +31,8 @@
 	- Discuss the latest reading
 	- Have an open forum about issues currently facing the teams (what's been a leadership challenge over the past week?)
 	- Pull a card from the 1:1 Manager Pack and dicusss each person's answer
+- Between each meeting:
+	- Ask at least one question per week in a Slack group to get advice from others
 
 ## Reading schedule
 
