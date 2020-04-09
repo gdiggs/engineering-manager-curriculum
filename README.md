@@ -14,6 +14,7 @@
 - Peopleware by Timothy Lister and Tom DeMarco
 - Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 - Emotional Intelligence 2.0 by Jean Greaves and Travis Bradberry
+- Leading Snowflakes by Oren Ellenbogen
 
 ## Slack groups to join
 
