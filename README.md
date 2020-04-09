@@ -4,6 +4,7 @@
 
 - 1 copy per person of [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - 1 copy per person of [New Manager Care Package](https://larahogan.me/blog/new-manager-care-package/)
+- 1 copy per person of [How F\*cked Up Is Your Management](https://www.amazon.com/How-cked-Your-Management-uncomfortable/dp/0995964300)
 - 1 set per person of [1:1 Starter Pack](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack)
 - At least 1 set of [1:1 Manager Pack](https://shop.beplucky.com/products/1-1-manager-pack)
 
@@ -38,4 +39,5 @@
 
 - Start with The Manager's Path. Read 1 chapter per week
 - Move on to Resilient Management. Read 1 chapter per week
+- Read a few essays per week from HFUIYM
 - Pick further books as a group
